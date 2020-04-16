@@ -1,0 +1,9 @@
+resources:
+- ../../base
+namespace: app1
+
+
+# production usage
+#resources:
+#- https://gitlab.example.com.com/apps/app1.git?ref=master
+#namespace: app1
